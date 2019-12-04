@@ -15,6 +15,11 @@ body{
 
   div{
     color:blue;
-    background-color;yellow
+    background-color; yellow;
     border:12px green dashed;
+    
+  }
+  
+  .serenity{
+    color:black;
   }
